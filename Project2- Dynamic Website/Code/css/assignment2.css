@@ -1,0 +1,95 @@
+#wholenavbar {
+    background-color: white !important;
+}
+
+
+
+.navbar-expand-lg .navbar-collapse {
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+    height: 80px;
+    background-color: white;
+
+
+  }
+
+  #login{
+      margin-left: 230px;
+  }
+
+ #main_picture 
+{
+    background-repeat: no-repeat;
+    background-image: url(https://colorlib.com/preview/theme/university/images/big_image_2.jpg);
+
+}
+
+
+#text_center {
+
+color: white;
+margin-left: 650px;
+margin-top: 300px;
+}
+
+#remember_me {
+    font-size: small;
+}
+
+#statement {
+    font-size: medium;
+    color: white;
+    margin-bottom: 75px;
+    margin-right: 350px;
+}
+
+.button_bg {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.register {
+    margin-left:250px;
+    margin-bottom: 200px;
+}
+
+#read_more h1{
+    width: 300px;
+    color: teal;
+    margin-top: 100px;
+}
+
+
+#read_more p {
+    width: 500px;
+
+}
+
+#read_more_img {
+    margin-top: 100px;
+    
+}
+
+.all_four_sec {
+    display: flex;
+    flex-direction: row;
+}
+
+.thefoursections {
+    margin-top: 100px;
+    width: 250px;
+margin-right: 80px;}
+
+.thefoursections i {
+    font-size: 45px;
+}
+
+
+
+
+
+
+
+
